@@ -4,6 +4,9 @@ A lightweight Windows GUI for downloading SoundCloud playlists using yt-dlp.
 
 This release includes FFmpeg and yt-dlp binaries for convenience.
 
+This project includes FFmpeg binaries.
+FFmpeg is licensed under LGPL/GPL.
+
 ![Screenshot](appscreenshot.png)
 
 ## Features
