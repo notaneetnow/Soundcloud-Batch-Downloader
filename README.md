@@ -1,8 +1,8 @@
 # SoundCloud Batch Downloader
 
-![Screenshot](appscreenshot.png)
-
 A lightweight Windows GUI for downloading SoundCloud playlists using yt-dlp.
+
+![Screenshot](appscreenshot.png)
 
 ## Features
 
