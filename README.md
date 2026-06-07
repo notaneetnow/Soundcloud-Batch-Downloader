@@ -4,6 +4,8 @@ A lightweight Windows GUI for downloading SoundCloud playlists using yt-dlp.
 
 This release includes FFmpeg and yt-dlp binaries for convenience.
 
+Feel free to use, but remember it is illegal for some work to be downloaded using this tool. PLEASE be aware of how you use this tool. User holds all the responsibilities.
+
 ![Screenshot](appscreenshot.png)
 
 ## Features
