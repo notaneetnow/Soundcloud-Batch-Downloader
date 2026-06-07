@@ -1,0 +1,6 @@
+settings.txt
+*.log
+*.tmp
+.vscode/
+desktop.ini
+Thumbs.db
